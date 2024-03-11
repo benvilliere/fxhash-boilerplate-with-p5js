@@ -87,3 +87,7 @@ fxhash eject
 ```
 
 This will transform your simple project structure into the ejected project structure. But be aware this change is not reversable via the `@fxhash/cli`.
+
+## Third-party Libraries
+
+This project includes the p5.js library, which is licensed under the GNU Lesser General Public License version 2.1. See the LICENSE file for the full license text.
